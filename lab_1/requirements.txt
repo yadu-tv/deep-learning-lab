@@ -1,0 +1,5 @@
+torch
+keras
+tensorflow[and-cuda]
+datasets
+ipywidgets
