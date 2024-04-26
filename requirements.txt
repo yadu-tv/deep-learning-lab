@@ -8,3 +8,8 @@ scikit-learn
 torchvision
 torchinfo
 opencv-python
+tensorflow[and-cuda]
+datasets
+ipywidgets
+ipykernel
+matplotlib
